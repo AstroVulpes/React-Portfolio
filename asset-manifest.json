@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6eadd174.css",
+    "main.js": "/static/js/main.dc956389.js",
+    "static/js/453.bb257cf5.chunk.js": "/static/js/453.bb257cf5.chunk.js",
+    "static/media/Office-Test3.png": "/static/media/Office-Test3.7211e5bc9f4a2d62d99e.png",
+    "static/media/Office-Test4.png": "/static/media/Office-Test4.75bd93af4e78b6c8786a.png",
+    "static/media/EuropeanRoadProject-Signs-Fixed.png": "/static/media/EuropeanRoadProject-Signs-Fixed.9b1c228ff7563c2bf4ac.png",
+    "static/media/EveryoneMustDie-Screenshot.jpg": "/static/media/EveryoneMustDie-Screenshot.a5b572c7757673a893a8.jpg",
+    "static/media/AC_AstroVulpes-FULL-Head-15px.png": "/static/media/AC_AstroVulpes-FULL-Head-15px.5c23e2bc5f6ca891913f.png",
+    "static/media/WindowsXP-CloseWindow.png": "/static/media/WindowsXP-CloseWindow.6bfed71fe87245f1418d.png",
+    "static/media/WindowsXP-CloseWindow-Hover.png": "/static/media/WindowsXP-CloseWindow-Hover.20a470f7624e4de57c1b.png",
+    "static/media/WindowsXP-CloseWindow-Focus.png": "/static/media/WindowsXP-CloseWindow-Focus.ee96c8fc7da9eb7c514a.png",
+    "static/media/WindowsXP-RestoreWindow-Inactive.png": "/static/media/WindowsXP-RestoreWindow-Inactive.f776d5bdf136a89999bd.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.6eadd174.css.map": "/static/css/main.6eadd174.css.map",
+    "main.dc956389.js.map": "/static/js/main.dc956389.js.map",
+    "453.bb257cf5.chunk.js.map": "/static/js/453.bb257cf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6eadd174.css",
+    "static/js/main.dc956389.js"
+  ]
+}
